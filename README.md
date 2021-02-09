@@ -6,7 +6,4 @@
 
 ## ../images/icon.png
 
-![](../images/icon.png)
-
-
-https://raw.githubusercontent.com/rikwatson/example/main/README.md
+![From images branch](../images/icon.png)
